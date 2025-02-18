@@ -28,7 +28,7 @@ class ListMyJosephus{
         int currentSize() const; 
         bool isEmpty() const; 
         void eliminateDestination(); 
-        void printAllDestinations(); 
+        void printAllDestinations() const; 
 
 
 }; 

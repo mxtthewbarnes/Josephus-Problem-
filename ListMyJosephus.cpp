@@ -60,3 +60,9 @@ void ListMyJosephus::eliminateDestination()
     cout << "The final Destination remaining is: "; 
     destinations.begin()->printDestinationName(); 
 }
+
+
+void ListMyJosephus::printAllDestinations() const
+{
+
+}
