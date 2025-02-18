@@ -44,3 +44,13 @@ void VectorMyJosephus::eliminationDestination()
     cout << "\nThe final remaining destination is: "; 
     destinations.front().printDestinationName(); 
 }
+
+
+//prints all destinations using: for(it in destinations) print it. 
+void VectorMyJosephus::printAllDestinations()
+{
+    for (const auto& it : destinations)
+    {
+        it.printDestinationName(); 
+    }
+}
