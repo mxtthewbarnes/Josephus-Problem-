@@ -1,0 +1,856 @@
+N = 1, M = 1774122434 | Execution Time: 8e-06 seconds
+
+Average simulation time (ListMyJosephus): 8e-06 seconds
+N = 1, M = 2 | Execution Time: 4e-06 seconds
+
+Average simulation time (ListMyJosephus): 4e-06 seconds
+N = 1, M = 2 | Execution Time: 2e-06 seconds
+
+Average simulation time (ListMyJosephus): 2e-06 seconds
+N = 1, M = 2 | Execution Time: 3e-06 seconds
+N = 2, M = 2 | Execution Time: 3e-06 seconds
+N = 4, M = 2 | Execution Time: 9e-06 seconds
+N = 8, M = 7 | Execution Time: 1.7e-05 seconds
+N = 16, M = 6 | Execution Time: 4e-05 seconds
+N = 256, M = 83 | Execution Time: 0.000801 seconds
+
+Average simulation time (ListMyJosephus): 0.0001455 seconds
+N = 1, M = 1 | Execution Time: 9e-06 seconds
+N = 2, M = 1 | Execution Time: 1.2e-05 seconds
+N = 4, M = 2 | Execution Time: 2.4e-05 seconds
+N = 8, M = 6 | Execution Time: 4.8e-05 seconds
+N = 16, M = 8 | Execution Time: 0.000122 seconds
+
+Average simulation time (ListMyJosephus): 4.3e-05 seconds
+N = 1, M = 2 | Execution Time: 3e-06 seconds
+N = 2, M = 2 | Execution Time: 3e-06 seconds
+N = 4, M = 3 | Execution Time: 4e-06 seconds
+N = 8, M = 3 | Execution Time: 8e-06 seconds
+N = 16, M = 6 | Execution Time: 1.6e-05 seconds
+
+Average simulation time (ListMyJosephus): 6.8e-06 seconds
+N = 1, M = 1 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1e-05 seconds
+N = 8, M = 5 | Execution Time: 2.1e-05 seconds
+N = 512, M = 53 | Execution Time: 0.002414 seconds
+
+Average simulation time (ListMyJosephus): 0.0004918 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 1 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1.1e-05 seconds
+N = 8, M = 4 | Execution Time: 2.3e-05 seconds
+N = 16, M = 3 | Execution Time: 5e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.94e-05 seconds
+N = 1, M = 2 | Execution Time: 2e-06 seconds
+N = 2, M = 2 | Execution Time: 2e-06 seconds
+N = 4, M = 4 | Execution Time: 3e-06 seconds
+N = 8, M = 5 | Execution Time: 1.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 4.5e-06 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+
+Average simulation time (VectorMyJosephus): 8e-06 seconds
+N = 1, M = 2 | Execution Time: 4e-06 seconds
+N = 2, M = 1 | Execution Time: 5e-06 seconds
+N = 4, M = 1 | Execution Time: 1e-05 seconds
+N = 8, M = 8 | Execution Time: 2.2e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.025e-05 seconds
+N = 1, M = 2 | Execution Time: 4e-06 seconds
+N = 2, M = 1 | Execution Time: 3e-06 seconds
+N = 4, M = 3 | Execution Time: 6e-06 seconds
+N = 8, M = 8 | Execution Time: 1.3e-05 seconds
+
+Average simulation time (VectorMyJosephus): 6.5e-06 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 4 | Execution Time: 1.1e-05 seconds
+N = 16, M = 12 | Execution Time: 4.7e-05 seconds
+N = 32, M = 23 | Execution Time: 0.000102 seconds
+
+Average simulation time (ListMyJosephus): 3.44e-05 seconds
+N = 1, M = 1 | Execution Time: 1.1e-05 seconds
+N = 2, M = 1 | Execution Time: 1.1e-05 seconds
+N = 4, M = 3 | Execution Time: 1.8e-05 seconds
+N = 16, M = 7 | Execution Time: 7.1e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.775e-05 seconds
+N = 1, M = 1 | Execution Time: 2e-06 seconds
+N = 2, M = 2 | Execution Time: 3e-06 seconds
+N = 4, M = 3 | Execution Time: 5e-06 seconds
+N = 8, M = 2 | Execution Time: 1.5e-05 seconds
+N = 16, M = 4 | Execution Time: 1.7e-05 seconds
+
+Average simulation time (VectorMyJosephus): 8.4e-06 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1e-05 seconds
+N = 8, M = 8 | Execution Time: 1.9e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.075e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 2 | Execution Time: 1.5e-05 seconds
+N = 8, M = 4 | Execution Time: 3e-05 seconds
+N = 16, M = 15 | Execution Time: 8.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 2.82e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 4 | Execution Time: 1.2e-05 seconds
+N = 8, M = 1 | Execution Time: 2.2e-05 seconds
+N = 16, M = 12 | Execution Time: 4.9e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.92e-05 seconds
+N = 1, M = 1 | Execution Time: 3e-06 seconds
+N = 2, M = 1 | Execution Time: 4e-06 seconds
+N = 4, M = 4 | Execution Time: 8e-06 seconds
+N = 8, M = 6 | Execution Time: 1.6e-05 seconds
+
+Average simulation time (ListMyJosephus): 7.75e-06 seconds
+N = 1, M = 2 | Execution Time: 1e-05 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 16, M = 10 | Execution Time: 5.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.975e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 1 | Execution Time: 1.1e-05 seconds
+N = 16, M = 2 | Execution Time: 4.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.675e-05 seconds
+N = 1, M = 1 | Execution Time: 9e-06 seconds
+N = 2, M = 1 | Execution Time: 7e-06 seconds
+N = 8, M = 2 | Execution Time: 2.3e-05 seconds
+N = 32, M = 26 | Execution Time: 0.000108 seconds
+
+Average simulation time (ListMyJosephus): 3.675e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 1 | Execution Time: 2.4e-05 seconds
+N = 16, M = 3 | Execution Time: 4.4e-05 seconds
+N = 32, M = 15 | Execution Time: 9.8e-05 seconds
+
+Average simulation time (ListMyJosephus): 3.2e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 3 | Execution Time: 1.3e-05 seconds
+N = 8, M = 7 | Execution Time: 2.4e-05 seconds
+N = 16, M = 1 | Execution Time: 4.3e-05 seconds
+N = 128, M = 50 | Execution Time: 0.000503 seconds
+
+Average simulation time (ListMyJosephus): 9.91667e-05 seconds
+N = 1, M = 1 | Execution Time: 5e-06 seconds
+N = 2, M = 1 | Execution Time: 4e-06 seconds
+N = 4, M = 4 | Execution Time: 7e-06 seconds
+N = 16, M = 10 | Execution Time: 4.5e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.525e-05 seconds
+N = 1, M = 2 | Execution Time: 6e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 7 | Execution Time: 2.6e-05 seconds
+N = 16, M = 5 | Execution Time: 4.6e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.94e-05 seconds
+N = 1, M = 1 | Execution Time: 5e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 4 | Execution Time: 1.2e-05 seconds
+N = 16, M = 1 | Execution Time: 4.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.65e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 4 | Execution Time: 1.2e-05 seconds
+N = 16, M = 1 | Execution Time: 4.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.7e-05 seconds
+N = 1, M = 2 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 4 | Execution Time: 1.1e-05 seconds
+N = 16, M = 5 | Execution Time: 4.7e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.75e-05 seconds
+N = 1, M = 2 | Execution Time: 5e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 1 | Execution Time: 9e-06 seconds
+N = 8, M = 3 | Execution Time: 1.9e-05 seconds
+N = 16, M = 15 | Execution Time: 4.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.6e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 128, M = 27 | Execution Time: 0.000499 seconds
+
+Average simulation time (ListMyJosephus): 0.00013075 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 5 | Execution Time: 2.2e-05 seconds
+N = 16, M = 4 | Execution Time: 4.7e-05 seconds
+N = 256, M = 229 | Execution Time: 0.00225 seconds
+
+Average simulation time (ListMyJosephus): 0.0003905 seconds
+N = 1, M = 2 | Execution Time: 5e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 3 | Execution Time: 1e-05 seconds
+N = 8, M = 5 | Execution Time: 2e-05 seconds
+N = 16, M = 8 | Execution Time: 4.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.64e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 7e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 2 | Execution Time: 2.3e-05 seconds
+N = 16, M = 4 | Execution Time: 4.8e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.96e-05 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 2 | Execution Time: 3.3e-05 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 3 | Execution Time: 2.4e-05 seconds
+N = 16, M = 13 | Execution Time: 4.5e-05 seconds
+N = 32, M = 5 | Execution Time: 9.2e-05 seconds
+
+Average simulation time (VectorMyJosephus): 3.61667e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 8 | Execution Time: 2.5e-05 seconds
+N = 16, M = 9 | Execution Time: 4.6e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.04e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 7 | Execution Time: 2.7e-05 seconds
+N = 16, M = 7 | Execution Time: 4.7e-05 seconds
+N = 64, M = 55 | Execution Time: 0.000186 seconds
+
+Average simulation time (VectorMyJosephus): 4.81667e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 2 | Execution Time: 1.3e-05 seconds
+N = 16, M = 13 | Execution Time: 4.6e-05 seconds
+N = 512, M = 195 | Execution Time: 0.003699 seconds
+
+Average simulation time (VectorMyJosephus): 0.0007548 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 7 | Execution Time: 2.6e-05 seconds
+N = 16, M = 13 | Execution Time: 4.8e-05 seconds
+N = 32, M = 13 | Execution Time: 9.1e-05 seconds
+
+Average simulation time (VectorMyJosephus): 3.25e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 1 | Execution Time: 1.3e-05 seconds
+
+Average simulation time (VectorMyJosephus): 9.66667e-06 seconds
+N = 1, M = 1 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 1e-05 seconds
+N = 8, M = 8 | Execution Time: 2.5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.43333e-05 seconds
+N = 1, M = 1 | Execution Time: 4e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 8e-06 seconds
+N = 8, M = 8 | Execution Time: 1.4e-05 seconds
+N = 16, M = 11 | Execution Time: 3.6e-05 seconds
+N = 512, M = 494 | Execution Time: 0.002149 seconds
+
+Average simulation time (VectorMyJosephus): 0.0003695 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 8, M = 4 | Execution Time: 2.4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.3e-05 seconds
+N = 1, M = 2 | Execution Time: 6e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 3 | Execution Time: 1.4e-05 seconds
+N = 16, M = 15 | Execution Time: 4.8e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.9e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 1e-05 seconds
+N = 4, M = 3 | Execution Time: 9e-06 seconds
+N = 8, M = 2 | Execution Time: 1.8e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.125e-05 seconds
+N = 1, M = 2 | Execution Time: 4.6e-05 seconds
+N = 2, M = 1 | Execution Time: 2.2e-05 seconds
+N = 4, M = 4 | Execution Time: 1.6e-05 seconds
+N = 8, M = 7 | Execution Time: 2.4e-05 seconds
+N = 16, M = 8 | Execution Time: 4.6e-05 seconds
+N = 32, M = 21 | Execution Time: 9.3e-05 seconds
+
+Average simulation time (VectorMyJosephus): 4.11667e-05 seconds
+N = 1, M = 1 | Execution Time: 8e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 2 | Execution Time: 1.3e-05 seconds
+N = 8, M = 8 | Execution Time: 2.3e-05 seconds
+N = 16, M = 10 | Execution Time: 5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.04e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 3 | Execution Time: 1.4e-05 seconds
+N = 8, M = 2 | Execution Time: 2.7e-05 seconds
+N = 256, M = 170 | Execution Time: 0.001518 seconds
+
+Average simulation time (VectorMyJosephus): 0.000315 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 3 | Execution Time: 1.3e-05 seconds
+N = 128, M = 126 | Execution Time: 0.000417 seconds
+
+Average simulation time (VectorMyJosephus): 0.000112 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 16, M = 15 | Execution Time: 4.6e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.875e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 1.4e-05 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 8, M = 6 | Execution Time: 4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.875e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 16, M = 6 | Execution Time: 4.7e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.9e-05 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 16, M = 6 | Execution Time: 4.6e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.9e-05 seconds
+N = 1, M = 1 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 8, M = 3 | Execution Time: 2.5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.375e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 8, M = 2 | Execution Time: 2.4e-05 seconds
+N = 32, M = 14 | Execution Time: 9.2e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.9e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 1 | Execution Time: 1.3e-05 seconds
+N = 8, M = 1 | Execution Time: 2.5e-05 seconds
+N = 16, M = 13 | Execution Time: 4.9e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.06e-05 seconds
+N = 1, M = 1 | Execution Time: 8e-06 seconds
+N = 2, M = 1 | Execution Time: 1e-05 seconds
+N = 4, M = 1 | Execution Time: 1.3e-05 seconds
+N = 8, M = 1 | Execution Time: 2.4e-05 seconds
+N = 16, M = 13 | Execution Time: 5.2e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.14e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 7 | Execution Time: 8.2e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.775e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.3e-05 seconds
+N = 8, M = 7 | Execution Time: 2.5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.325e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 6 | Execution Time: 2.4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.325e-05 seconds
+N = 1, M = 1 | Execution Time: 1.1e-05 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 5 | Execution Time: 2.7e-05 seconds
+N = 16, M = 6 | Execution Time: 4.7e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.16e-05 seconds
+N = 1, M = 1 | Execution Time: 9e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 5 | Execution Time: 2.6e-05 seconds
+N = 16, M = 6 | Execution Time: 4.7e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.08e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1.1e-05 seconds
+N = 8, M = 3 | Execution Time: 2e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.125e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 1e-05 seconds
+N = 4, M = 2 | Execution Time: 1.4e-05 seconds
+N = 8, M = 3 | Execution Time: 2.8e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.475e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 2 | Execution Time: 1.4e-05 seconds
+N = 8, M = 1 | Execution Time: 2.6e-05 seconds
+N = 16, M = 16 | Execution Time: 5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.12e-05 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 2 | Execution Time: 1.1e-05 seconds
+N = 4, M = 2 | Execution Time: 1.3e-05 seconds
+N = 8, M = 1 | Execution Time: 2.9e-05 seconds
+N = 16, M = 16 | Execution Time: 4.9e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.22e-05 seconds
+N = 1, M = 1 | Execution Time: 3.6e-05 seconds
+N = 2, M = 2 | Execution Time: 1e-05 seconds
+N = 4, M = 2 | Execution Time: 4.1e-05 seconds
+N = 512, M = 491 | Execution Time: 0.003655 seconds
+
+Average simulation time (VectorMyJosephus): 0.0009355 seconds
+N = 1, M = 1 | Execution Time: 2e-06 seconds
+N = 2, M = 2 | Execution Time: 2e-06 seconds
+N = 4, M = 4 | Execution Time: 5e-06 seconds
+N = 8, M = 5 | Execution Time: 9e-06 seconds
+
+Average simulation time (ListMyJosephus): 4.5e-06 seconds
+N = 1, M = 2 | Execution Time: 5e-06 seconds
+N = 2, M = 1 | Execution Time: 5e-06 seconds
+N = 4, M = 4 | Execution Time: 9e-06 seconds
+N = 8, M = 1 | Execution Time: 1.7e-05 seconds
+
+Average simulation time (ListMyJosephus): 9e-06 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 8, M = 7 | Execution Time: 2.6e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.275e-05 seconds
+N = 1, M = 1 | Execution Time: 2e-06 seconds
+N = 2, M = 2 | Execution Time: 3e-06 seconds
+N = 4, M = 1 | Execution Time: 4e-06 seconds
+N = 8, M = 7 | Execution Time: 1.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 5e-06 seconds
+N = 1, M = 2 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 8, M = 6 | Execution Time: 2.5e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.25e-05 seconds
+N = 1, M = 2 | Execution Time: 5e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 1 | Execution Time: 1.3e-05 seconds
+N = 8, M = 6 | Execution Time: 2.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.2e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 1 | Execution Time: 1.1e-05 seconds
+N = 8, M = 5 | Execution Time: 2.4e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.2e-05 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.1e-05 seconds
+N = 8, M = 5 | Execution Time: 2.4e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.3e-05 seconds
+N = 1, M = 1 | Execution Time: 5e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 8, M = 3 | Execution Time: 2.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.2e-05 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 2 | Execution Time: 2.2e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.225e-05 seconds
+N = 1, M = 2 | Execution Time: 2.7e-05 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 2 | Execution Time: 2.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.725e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 1 | Execution Time: 2.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.175e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 1 | Execution Time: 2.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.175e-05 seconds
+N = 1, M = 2 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 7 | Execution Time: 2.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.175e-05 seconds
+N = 1, M = 2 | Execution Time: 4e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 3 | Execution Time: 1.9e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.05e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 4 | Execution Time: 1.2e-05 seconds
+N = 8, M = 3 | Execution Time: 2.5e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.275e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 2 | Execution Time: 2.2e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.175e-05 seconds
+N = 1, M = 2 | Execution Time: 2e-06 seconds
+N = 2, M = 1 | Execution Time: 3e-06 seconds
+N = 4, M = 2 | Execution Time: 5e-06 seconds
+
+Average simulation time (VectorMyJosephus): 3.33333e-06 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 3 | Execution Time: 1.4e-05 seconds
+N = 8, M = 4 | Execution Time: 2.6e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.375e-05 seconds
+N = 1, M = 1 | Execution Time: 5e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 3 | Execution Time: 1e-05 seconds
+N = 8, M = 2 | Execution Time: 1.9e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 3 | Execution Time: 1.4e-05 seconds
+N = 8, M = 2 | Execution Time: 2.6e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.375e-05 seconds
+N = 1, M = 2 | Execution Time: 2e-05 seconds
+N = 2, M = 1 | Execution Time: 1.1e-05 seconds
+N = 4, M = 3 | Execution Time: 1.1e-05 seconds
+N = 8, M = 1 | Execution Time: 3.9e-05 seconds
+N = 16, M = 12 | Execution Time: 4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.42e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 3 | Execution Time: 1.3e-05 seconds
+N = 8, M = 8 | Execution Time: 2.5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.325e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 3 | Execution Time: 1.4e-05 seconds
+N = 8, M = 6 | Execution Time: 2.5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 1.375e-05 seconds
+N = 1, M = 1 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 5 | Execution Time: 2.7e-05 seconds
+N = 16, M = 6 | Execution Time: 4.6e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.06e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.5e-05 seconds
+N = 8, M = 4 | Execution Time: 2.5e-05 seconds
+N = 16, M = 16 | Execution Time: 4.8e-05 seconds
+N = 32, M = 8 | Execution Time: 0.000109 seconds
+
+Average simulation time (VectorMyJosephus): 3.55e-05 seconds
+N = 1, M = 2 | Execution Time: 1.1e-05 seconds
+N = 2, M = 1 | Execution Time: 1e-05 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 2 | Execution Time: 2.5e-05 seconds
+N = 16, M = 7 | Execution Time: 5.2e-05 seconds
+N = 32, M = 22 | Execution Time: 9.6e-05 seconds
+
+Average simulation time (VectorMyJosephus): 3.46667e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 1 | Execution Time: 1.2e-05 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 6 | Execution Time: 2.6e-05 seconds
+N = 16, M = 1 | Execution Time: 5.4e-05 seconds
+N = 32, M = 23 | Execution Time: 0.000102 seconds
+
+Average simulation time (VectorMyJosephus): 3.6e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 2 | Execution Time: 1.3e-05 seconds
+N = 8, M = 2 | Execution Time: 2.4e-05 seconds
+N = 16, M = 11 | Execution Time: 5.3e-05 seconds
+N = 32, M = 23 | Execution Time: 9.8e-05 seconds
+
+Average simulation time (VectorMyJosephus): 3.4e-05 seconds
+N = 1, M = 2 | Execution Time: 4e-06 seconds
+N = 2, M = 1 | Execution Time: 4e-06 seconds
+N = 4, M = 3 | Execution Time: 9e-06 seconds
+N = 8, M = 2 | Execution Time: 1.4e-05 seconds
+N = 16, M = 14 | Execution Time: 5.2e-05 seconds
+N = 32, M = 24 | Execution Time: 5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.21667e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 3 | Execution Time: 1.3e-05 seconds
+N = 8, M = 1 | Execution Time: 2.6e-05 seconds
+N = 16, M = 12 | Execution Time: 5.5e-05 seconds
+N = 32, M = 14 | Execution Time: 0.000102 seconds
+
+Average simulation time (VectorMyJosephus): 3.51667e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 7 | Execution Time: 2.5e-05 seconds
+N = 16, M = 10 | Execution Time: 5.3e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.16e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 8, M = 6 | Execution Time: 2.4e-05 seconds
+N = 16, M = 8 | Execution Time: 5.4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.16e-05 seconds
+N = 1, M = 1 | Execution Time: 9e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 8, M = 6 | Execution Time: 2.5e-05 seconds
+N = 16, M = 8 | Execution Time: 5.4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.2e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 5 | Execution Time: 2.6e-05 seconds
+N = 16, M = 6 | Execution Time: 5.5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.2e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 8, M = 5 | Execution Time: 2.6e-05 seconds
+N = 16, M = 6 | Execution Time: 5.9e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.3e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 1 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 8, M = 5 | Execution Time: 2.7e-05 seconds
+N = 16, M = 6 | Execution Time: 5.8e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.3e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.4e-05 seconds
+N = 8, M = 4 | Execution Time: 2.7e-05 seconds
+N = 16, M = 4 | Execution Time: 5e-05 seconds
+N = 32, M = 4 | Execution Time: 0.000106 seconds
+
+Average simulation time (VectorMyJosephus): 3.55e-05 seconds
+N = 1, M = 2 | Execution Time: 1.2e-05 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 4 | Execution Time: 2.8e-05 seconds
+N = 16, M = 4 | Execution Time: 5.7e-05 seconds
+N = 32, M = 4 | Execution Time: 0.000104 seconds
+
+Average simulation time (VectorMyJosephus): 3.7e-05 seconds
+N = 1, M = 1 | Execution Time: 1.2e-05 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.2e-05 seconds
+N = 8, M = 2 | Execution Time: 2.4e-05 seconds
+N = 16, M = 2 | Execution Time: 5.3e-05 seconds
+N = 32, M = 26 | Execution Time: 9.1e-05 seconds
+
+Average simulation time (VectorMyJosephus): 3.35e-05 seconds
+N = 1, M = 1 | Execution Time: 1.1e-05 seconds
+N = 2, M = 2 | Execution Time: 9e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 2 | Execution Time: 2.5e-05 seconds
+N = 16, M = 2 | Execution Time: 5.3e-05 seconds
+N = 32, M = 26 | Execution Time: 9.5e-05 seconds
+
+Average simulation time (VectorMyJosephus): 3.43333e-05 seconds
+N = 1, M = 2 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.4e-05 seconds
+N = 8, M = 1 | Execution Time: 2.5e-05 seconds
+N = 16, M = 16 | Execution Time: 5.3e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.14e-05 seconds
+N = 1, M = 1 | Execution Time: 4.5e-05 seconds
+N = 2, M = 1 | Execution Time: 1.1e-05 seconds
+N = 4, M = 1 | Execution Time: 2.4e-05 seconds
+N = 8, M = 8 | Execution Time: 2.7e-05 seconds
+N = 16, M = 14 | Execution Time: 5.1e-05 seconds
+N = 32, M = 5 | Execution Time: 9.4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 4.2e-05 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 1 | Execution Time: 7e-06 seconds
+N = 4, M = 1 | Execution Time: 9e-06 seconds
+N = 8, M = 6 | Execution Time: 2.2e-05 seconds
+N = 16, M = 12 | Execution Time: 4e-05 seconds
+N = 32, M = 26 | Execution Time: 7.8e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.75e-05 seconds
+N = 1, M = 1 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 8, M = 5 | Execution Time: 2.6e-05 seconds
+N = 16, M = 10 | Execution Time: 5.4e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.16e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 1e-05 seconds
+N = 4, M = 2 | Execution Time: 1.4e-05 seconds
+N = 8, M = 4 | Execution Time: 2.5e-05 seconds
+N = 16, M = 8 | Execution Time: 5.1e-05 seconds
+
+Average simulation time (VectorMyJosephus): 2.16e-05 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 1 | Execution Time: 1.2e-05 seconds
+N = 4, M = 2 | Execution Time: 2.1e-05 seconds
+N = 8, M = 7 | Execution Time: 4.1e-05 seconds
+
+Average simulation time (ListMyJosephus): 2.075e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 1 | Execution Time: 8e-06 seconds
+N = 4, M = 4 | Execution Time: 1.3e-05 seconds
+N = 8, M = 3 | Execution Time: 2.2e-05 seconds
+N = 32, M = 28 | Execution Time: 0.000111 seconds
+
+Average simulation time (ListMyJosephus): 3.2e-05 seconds
+N = 1, M = 2 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 1 | Execution Time: 1.3e-05 seconds
+N = 8, M = 7 | Execution Time: 2.5e-05 seconds
+N = 32, M = 5 | Execution Time: 8.8e-05 seconds
+
+Average simulation time (ListMyJosephus): 2.78e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 8, M = 3 | Execution Time: 2.2e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.2e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 8e-06 seconds
+N = 4, M = 1 | Execution Time: 1.2e-05 seconds
+N = 8, M = 3 | Execution Time: 2.2e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.2e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 2 | Execution Time: 2.3e-05 seconds
+N = 16, M = 9 | Execution Time: 0.000122 seconds
+
+Average simulation time (ListMyJosephus): 3.4e-05 seconds
+N = 1, M = 1 | Execution Time: 7e-06 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1.3e-05 seconds
+N = 8, M = 2 | Execution Time: 2.2e-05 seconds
+N = 16, M = 9 | Execution Time: 5.2e-05 seconds
+
+Average simulation time (ListMyJosephus): 2e-05 seconds
+N = 1, M = 1 | Execution Time: 6e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1.1e-05 seconds
+N = 8, M = 2 | Execution Time: 2.3e-05 seconds
+N = 16, M = 9 | Execution Time: 5.2e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.98e-05 seconds
+N = 1, M = 2 | Execution Time: 4e-06 seconds
+N = 2, M = 1 | Execution Time: 4e-06 seconds
+N = 4, M = 2 | Execution Time: 6e-06 seconds
+N = 8, M = 1 | Execution Time: 1.3e-05 seconds
+N = 16, M = 7 | Execution Time: 3.4e-05 seconds
+N = 32, M = 22 | Execution Time: 6.4e-05 seconds
+
+Average simulation time (ListMyJosephus): 2.08333e-05 seconds
+N = 1, M = 2 | Execution Time: 8e-06 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 2 | Execution Time: 1.2e-05 seconds
+N = 8, M = 6 | Execution Time: 2.4e-05 seconds
+N = 16, M = 3 | Execution Time: 4.6e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.94e-05 seconds
+N = 1, M = 2 | Execution Time: 1.1e-05 seconds
+N = 2, M = 2 | Execution Time: 7e-06 seconds
+N = 4, M = 3 | Execution Time: 1.1e-05 seconds
+N = 8, M = 3 | Execution Time: 2.2e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.275e-05 seconds
+N = 1, M = 2 | Execution Time: 1e-05 seconds
+N = 2, M = 2 | Execution Time: 6e-06 seconds
+N = 4, M = 3 | Execution Time: 1.2e-05 seconds
+N = 8, M = 3 | Execution Time: 2.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 1.275e-05 seconds
+N = 1, M = 1 | Execution Time: 5e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1e-05 seconds
+N = 8, M = 8 | Execution Time: 3e-05 seconds
+N = 16, M = 16 | Execution Time: 5.5e-05 seconds
+N = 32, M = 15 | Execution Time: 9.3e-05 seconds
+
+Average simulation time (ListMyJosephus): 3.31667e-05 seconds
+N = 1, M = 2 | Execution Time: 3e-06 seconds
+N = 2, M = 2 | Execution Time: 3e-06 seconds
+N = 4, M = 3 | Execution Time: 5e-06 seconds
+N = 8, M = 7 | Execution Time: 1.1e-05 seconds
+N = 16, M = 6 | Execution Time: 1.6e-05 seconds
+N = 32, M = 10 | Execution Time: 3.4e-05 seconds
+
+	(AVG) simulation time: 1.2e-05 seconds
+N = 1, M = 1 | Execution Time: 3e-06 seconds
+N = 2, M = 1 | Execution Time: 2e-06 seconds
+N = 4, M = 3 | Execution Time: 4e-06 seconds
+N = 8, M = 1 | Execution Time: 8e-06 seconds
+N = 16, M = 11 | Execution Time: 2.5e-05 seconds
+
+(AVG) simulation time (VectorMyJosephus): 8.4e-06 seconds
+N = 1, M = 2 | Execution Time: 9e-06 seconds
+N = 2, M = 1 | Execution Time: 6e-06 seconds
+N = 4, M = 2 | Execution Time: 1.1e-05 seconds
+N = 8, M = 4 | Execution Time: 2.2e-05 seconds
+N = 16, M = 15 | Execution Time: 0.000108 seconds
+
+(AVG) simulation time (VectorMyJosephus): 3.12e-05 seconds
+N = 1, M = 1 | Execution Time: 4e-06 seconds
+N = 2, M = 2 | Execution Time: 2e-06 seconds
+N = 4, M = 3 | Execution Time: 4e-06 seconds
+N = 8, M = 8 | Execution Time: 1.3e-05 seconds
+N = 16, M = 9 | Execution Time: 1.6e-05 seconds
+N = 32, M = 4 | Execution Time: 3.4e-05 seconds
+
+	(AVG) simulation time: 1.21667e-05 seconds

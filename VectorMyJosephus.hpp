@@ -16,15 +16,15 @@ class VectorMyJosephus{
 
     public: 
         //constructor
-        VectorMyJosephus(int mInterval, int nLocations); 
+        VectorMyJosephus(int mInterval, int nLocations, const vector<string>& names); 
 
         //destructor
-        ~VectorMyJosephus() {}
+        ~VectorMyJosephus();
 
         //-------Member funcs----------
         void clear(); 
         int currentSize() const; 
         bool isEmpty() const; 
         void eliminationDestination(); 
-        void printAllDestinations(); 
+        void printAllDestinations()const; 
 };

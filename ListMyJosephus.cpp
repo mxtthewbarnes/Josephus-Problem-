@@ -2,7 +2,13 @@
 
 
 //constructor def. 
-ListMyJosephus::ListMyJosephus(int mInterval, int nLocations) : M(mInterval), N(nLocations) {}
+ListMyJosephus::ListMyJosephus(int mInterval, int nLocations, const vector<string>& names) : M(mInterval), N(nLocations)
+{
+    for(int i = 0; i < N; i++)
+    {
+        destinations.emplace_back(i, names[i]); 
+    }
+}
 
 
 //destructor def. calls clear() 
@@ -49,8 +55,7 @@ void ListMyJosephus::eliminateDestination()
                 it = destinations.begin(); 
             }       
         }
-        cout << "\tEliminating:" << endl;  
-        cout << "-------------------------" << endl;  
+        cout << "\tEliminating:";   
         it->printDestinationName(); 
 
         //erases desination that IT is pointing at, returns a pointer to the next destination to IT. 
@@ -60,9 +65,14 @@ void ListMyJosephus::eliminateDestination()
             it = destinations.begin(); 
         }
     }
-    cout << "The final Destination remaining is: "; 
-    destinations.begin()->printDestinationName(); 
-}
+    if (!destinations.empty()) {
+        cout << "The final Destination remaining is: ";
+        destinations.front().printDestinationName();
+    } else {
+        cout << "No destination remaining!" << endl;
+    }
+} 
+
 
 
 //initializes iterator to beginning of list, stops at the end. 

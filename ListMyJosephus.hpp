@@ -18,10 +18,10 @@ class ListMyJosephus{
 
     public: 
         //constructor
-        ListMyJosephus(int mInterval, int nLocations); 
+        ListMyJosephus(int mInterval, int nLocations, const vector<string>& names); 
 
         //Destructor
-        ~ListMyJosephus() {}
+        ~ListMyJosephus(); 
 
         //-----------Member Funcs.-------------
         void clear(); 

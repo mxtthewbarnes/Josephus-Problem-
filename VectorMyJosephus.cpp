@@ -1,7 +1,13 @@
 #include "VectorMyJosephus.hpp"
 
 //constructor def. 
-VectorMyJosephus::VectorMyJosephus(int mInterval, int nLocations) : M(mInterval), N(nLocations) {}
+VectorMyJosephus::VectorMyJosephus(int mInterval, int nLocations, const vector<string>& names) : M(mInterval), N(nLocations) 
+{
+    for(int i = 0; i < N; i++)
+    {
+        destinations.emplace_back(i, names[i]); 
+    }
+}
 
 
 //destructor def. 
@@ -29,28 +35,34 @@ bool VectorMyJosephus::isEmpty() const
 void VectorMyJosephus::eliminationDestination()
 {
     int i = 0; 
-    while(destinations.size() > 1)
+    while (destinations.size() > 1)
     {
-        i = i + M-1; 
-        if(i >= destinations.size())
-        {
-            i -=destinations.size(); 
-        }
-        cout << "\n\tEliminating:" << endl; 
-        cout << "\t----------------------" << endl; 
+        i = (i + M - 1) % destinations.size();  
+        
+        cout << "\tEliminating: ";
         destinations[i].printDestinationName(); 
-    }
+        
+        destinations.erase(destinations.begin() + i); 
 
+        if (i >= destinations.size()) {
+            i = 0;  
+        }
+    }
     cout << "\nThe final remaining destination is: "; 
     destinations.front().printDestinationName(); 
 }
 
 
 //prints all destinations using: for(it in destinations) print it. 
-void VectorMyJosephus::printAllDestinations()
+void VectorMyJosephus::printAllDestinations() const
 {
     for (const auto& it : destinations)
     {
         it.printDestinationName(); 
     }
+}
+
+
+void VectorMyJosephus::clear() {
+    destinations.clear(); 
 }
