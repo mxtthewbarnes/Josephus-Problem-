@@ -12,13 +12,13 @@ Destination::~Destination() {}
 //prints destinations position
 void Destination::printPosition() const
 {
-    cout << "position: " << position << endl; 
+    cout << position << endl; 
 }
 
 
 //prints destinations name
 void Destination::printDestinationName() const
 {
-    cout << "destination: " << name << endl; 
+    cout << name << endl; 
 }
 
