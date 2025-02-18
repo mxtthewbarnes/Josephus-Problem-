@@ -5,7 +5,7 @@
 ListMyJosephus::ListMyJosephus(int mInterval, int nLocations) : M(mInterval), N(nLocations) {}
 
 
-//destructor def.
+//destructor def. calls clear() 
 ListMyJosephus::~ListMyJosephus() 
 {
     clear(); 
@@ -15,7 +15,7 @@ ListMyJosephus::~ListMyJosephus()
 //clear() uses std::list clear() to empty sequence 
 void ListMyJosephus::clear()
 {
-    return destinations.clear(); 
+    destinations.clear(); 
 }
 
 
@@ -44,25 +44,33 @@ void ListMyJosephus::eliminateDestination()
     {
         for(int i = 0; i < M - 1; i++)
         {
-            advance(it, 1); 
-            if (it == destinations.end()) 
+            if (++it == destinations.end()) 
             {
                 it = destinations.begin(); 
-            }
+            }       
         }
-        cout << "\tEliminating: " << endl;  
-        cout << "\t--------------"; 
+        cout << "\tEliminating:" << endl;  
+        cout << "-------------------------" << endl;  
         it->printDestinationName(); 
 
         //erases desination that IT is pointing at, returns a pointer to the next destination to IT. 
         it = destinations.erase(it); 
+        if(it == destinations.end())
+        {
+            it = destinations.begin(); 
+        }
     }
     cout << "The final Destination remaining is: "; 
     destinations.begin()->printDestinationName(); 
 }
 
 
+//initializes iterator to beginning of list, stops at the end. 
+//prints each element before then
 void ListMyJosephus::printAllDestinations() const
 {
-
+    for(auto it = destinations.begin(); it != destinations.end(); ++it)
+    {
+        it->printDestinationName(); 
+    }
 }

@@ -13,7 +13,7 @@ class ListMyJosephus{
         //tot. initial locations
         int N; 
 
-        //implementing std::list of Destination's objects
+        //initialzing std::list of Destination's objects
         list<Destination> destinations; 
 
     public: 
@@ -29,6 +29,4 @@ class ListMyJosephus{
         bool isEmpty() const; 
         void eliminateDestination(); 
         void printAllDestinations() const; 
-
-
 }; 
