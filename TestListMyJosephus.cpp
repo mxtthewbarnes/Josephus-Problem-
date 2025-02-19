@@ -13,7 +13,7 @@ using namespace std;
 
 
  //func loads destinations from a CSV file into a 2D vector.
- //each row in the file represents a list of destinations, separated by semicolons.
+ //each row in the file represents a list of destinations, separated by ; 
 vector<vector<string>> loadDestinations(const string& filename) {
     vector<vector<string>> allRows;
     ifstream file(filename);
@@ -39,7 +39,9 @@ vector<vector<string>> loadDestinations(const string& filename) {
 
 
 
-
+/*
+        I did TestVector first, detailed comments are over on that file 
+*/
 int main() {
     ofstream logFile("results.log", ios::app);
     if (!logFile) {

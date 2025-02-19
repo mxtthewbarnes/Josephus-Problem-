@@ -854,3 +854,11 @@ N = 16, M = 9 | Execution Time: 1.6e-05 seconds
 N = 32, M = 4 | Execution Time: 3.4e-05 seconds
 
 	(AVG) simulation time: 1.21667e-05 seconds
+N = 1, M = 1 | Execution Time: 2e-06 seconds
+N = 2, M = 1 | Execution Time: 3e-06 seconds
+N = 4, M = 1 | Execution Time: 5e-06 seconds
+N = 8, M = 8 | Execution Time: 1.1e-05 seconds
+N = 16, M = 6 | Execution Time: 1.6e-05 seconds
+N = 32, M = 5 | Execution Time: 3.7e-05 seconds
+
+(AVG) simulation time (VectorMyJosephus): 1.23333e-05 seconds
